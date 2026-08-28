@@ -10,7 +10,7 @@ by product and by country of origin?
 
 The data comes from EFSA, the EU food safety agency. Every year, member states
 test food samples for pesticide residues and report the results. EFSA publishes
-the raw data on Zenodo.
+the raw data on Zenodo REST API.
 
 **Note:** this project measures regulatory non compliance, not health risk. An
 MRL (Maximum Residue Level) is a legal limit based on good farming practice, not
