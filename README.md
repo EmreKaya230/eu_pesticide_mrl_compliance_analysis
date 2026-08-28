@@ -16,7 +16,7 @@ the raw data on Zenodo.
 MRL (Maximum Residue Level) is a legal limit based on good farming practice, not
 a safety limit. A sample can go over the MRL and still be safe to eat.
 
-**Stack:** Python · PostgreSQL · Tableau
+**Stack:** Python · PostgreSQL ·API · Tableau
 
 
 
