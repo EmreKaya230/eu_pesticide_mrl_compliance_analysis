@@ -1,8 +1,6 @@
 # EU Pesticide MRL Compliance Analysis
 
-## Tableau Dashboard
-
-(tableau_dashboard.png)
+![Tableau Dashboard](tableau_dashboard.png)(tableau_dashboard.png)
 
 
 I started with a big question: does what we eat affect our health in the long
