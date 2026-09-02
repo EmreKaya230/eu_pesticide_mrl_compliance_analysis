@@ -1,5 +1,10 @@
 # EU Pesticide MRL Compliance Analysis
 
+## Tableau Dashboard
+
+![Tableau Dashboard](tableau_dashboard.png)
+
+
 I started with a big question: does what we eat affect our health in the long
 run? That question is too big for public data. You would need to measure what
 each person actually eats, not country totals.
